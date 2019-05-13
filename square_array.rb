@@ -7,4 +7,6 @@ squared_array << array[location]
 end
 
 new_array = square_array([1,4,9])
-new_array.inspect
+puts new_array[0]
+puts new_array[1]
+puts new_array[2]
