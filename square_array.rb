@@ -5,3 +5,5 @@ squared_array[location] = array[location]**2
   end
   squared_array
 end
+
+square_array([1,4,9])
